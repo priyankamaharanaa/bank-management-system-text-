@@ -5,9 +5,6 @@ Domain: JAVA PROGRAMMING
 Duration: 1ST JUNE 2024 to 30TH JULY 2024
 Mentor: G.SRAVANI
 
-
-##Bank Management System
-
 ## Overview
 This Bank Management System is a comprehensive Java application designed to streamline banking operations. It provides functionalities for managing customer accounts, processing transactions, and generating reports, ensuring an efficient and secure banking experience.
 
